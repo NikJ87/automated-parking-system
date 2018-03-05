@@ -2,14 +2,14 @@
 
 Instructions to Run Program
 
-I   Extract the zipped file WhiteClarke.zip
-II  import /automatic-parking-system project as existing maven project
-III update and build as maven project
-IV  open AutomatedParkingTest and run as 'JUnit Test'
+1.  Extract the zipped file WhiteClarke.zip
+2.  Import /automatic-parking-system project as existing maven project
+3.  Update and build as maven project
+4.  Open AutomatedParkingTest and run as 'JUnit Test'
 
 
 
 Alternatively
-I   Extract the zipped file zipped file WhiteClarke.zip
-II  use command prompt to reach /automatic-parking-system
-IV  execute 'mvn test' for running Junit test cases
+1.   Extract the zipped file zipped file WhiteClarke.zip
+2.  Use command prompt to reach /automatic-parking-system
+3.  Execute 'mvn test' for running Junit test cases
